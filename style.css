@@ -1,0 +1,63 @@
+body {
+  width: 848px;
+  margin: 3em auto;
+}
+#text {
+	display:inline-block;
+  margin: 1em;
+  font-size: 1.5em;
+  font-family: broadway;
+  color: #990033;
+}
+.hd {
+  text-align: center;
+  font-family: broadway;
+  color: #990033;
+}
+#nav_h li {
+  float: right;
+  margin: 0em 3em;
+  list-style-type: none;
+}
+
+#nav_h {
+  position: fixed;
+  top: 0;
+  height: 3em;
+  background-color: rgb(102, 225, 153);
+  width: 50%;
+}
+
+#sec2 {
+  background-color: rgb(102, 225, 153);
+  height: auto;
+  width: auto;
+}
+#nav_vert li {
+  margin: 1em 0;
+}
+
+#nav_vert {
+  position: fixed;
+  float: left;
+  left: 170px;
+  background-color: rgb(102, 225, 153);
+  top: 3em;
+  bottom: 0;
+}
+
+section p {
+  margin: 2em;
+  font-family: "Berlin Sans FB";
+}
+
+img {
+  width: 550px;
+  height: 110px;
+}
+a {
+  font-family: broadway;
+}
+figure{
+  display: inline;
+}
