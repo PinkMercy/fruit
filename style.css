@@ -25,7 +25,7 @@ body {
   top: 0;
   height: 3em;
   background-color: rgb(102, 225, 153);
-  width: 50%;
+  width: 56%;
 }
 
 #sec2 {
@@ -40,7 +40,7 @@ body {
 #nav_vert {
   position: fixed;
   float: left;
-  left: 170px;
+  left: 6%;
   background-color: rgb(102, 225, 153);
   top: 3em;
   bottom: 0;
